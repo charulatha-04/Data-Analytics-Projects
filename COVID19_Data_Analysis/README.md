@@ -16,4 +16,4 @@ Objective: To visualize and analyze global COVID-19 cases, recoveries, and death
 - WHO Region-wise Total Cases Bar Chart  
 
 ### 🌐 Live Dashboard
-🔗 [View on Tableau Public](https://public.tableau.com/views/Covid19_Analysis_17617260158080/GlobalCOVID-19AnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [View on Tableau Public](https://public.tableau.com/views/Covid19_Analysis_17617260158080/GlobalCOVID-19AnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
